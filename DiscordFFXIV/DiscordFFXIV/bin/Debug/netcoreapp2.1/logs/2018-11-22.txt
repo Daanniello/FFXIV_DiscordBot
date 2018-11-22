@@ -1,0 +1,372 @@
+10:34:38 [Info] Discord: Discord.Net v1.0.2 (API v6)
+10:34:39 [Verbose] Rest: GET voice/regions: 1826.82 ms
+10:34:40 [Info] Gateway: Connecting
+10:34:40 [Verbose] Rest: GET gateway: 56.93 ms
+10:34:41 [Info] Gateway: Connected
+10:34:41 [Verbose] Gateway: Connected to Bots
+10:34:42 [Info] Gateway: Ready
+10:36:28 [Info] Discord: Discord.Net v1.0.2 (API v6)
+10:36:31 [Verbose] Rest: GET voice/regions: 2491.2 ms
+10:36:31 [Info] Gateway: Connecting
+10:36:31 [Verbose] Rest: GET gateway: 43.45 ms
+10:36:32 [Info] Gateway: Connected
+10:36:32 [Verbose] Gateway: Connected to Bots
+10:36:33 [Info] Gateway: Ready
+10:38:49 [Info] Discord: Discord.Net v1.0.2 (API v6)
+10:38:50 [Verbose] Rest: GET voice/regions: 1414.69 ms
+10:38:50 [Info] Gateway: Connecting
+10:38:51 [Verbose] Rest: GET gateway: 66.86 ms
+10:38:51 [Info] Gateway: Connected
+10:38:51 [Verbose] Gateway: Connected to Bots
+10:38:51 [Verbose] Gateway: Connected to BotTestServer
+10:38:52 [Info] Gateway: Ready
+10:38:56 [Verbose] Rest: POST channels/504971123306266624/messages: 204.29 ms
+10:38:56 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+10:41:17 [Info] Discord: Discord.Net v1.0.2 (API v6)
+10:41:18 [Verbose] Rest: GET voice/regions: 1595.89 ms
+10:41:19 [Info] Gateway: Connecting
+10:41:19 [Verbose] Rest: GET gateway: 64.09 ms
+10:41:20 [Info] Gateway: Connected
+10:41:20 [Verbose] Gateway: Connected to Bots
+10:41:20 [Verbose] Gateway: Connected to BotTestServer
+10:41:20 [Info] Gateway: Ready
+10:41:21 [Verbose] Rest: POST channels/504971123306266624/messages: 225.74 ms
+10:41:21 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+10:41:26 [Verbose] Rest: POST channels/504971123306266624/messages: 280.64 ms
+10:41:26 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+10:59:22 [Info] Discord: Discord.Net v1.0.2 (API v6)
+10:59:25 [Verbose] Rest: GET voice/regions: 1823.6 ms
+10:59:25 [Info] Gateway: Connecting
+10:59:25 [Warning] Command: Class DiscordFFXIV.Modules.FFXIVFeed is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+10:59:25 [Verbose] Rest: GET gateway: 67.89 ms
+10:59:26 [Info] Gateway: Connected
+10:59:26 [Verbose] Gateway: Connected to Bots
+10:59:26 [Verbose] Gateway: Connected to BotTestServer
+10:59:26 [Info] Gateway: Ready
+10:59:31 [Verbose] Rest: POST channels/504971123306266624/messages: 209.18 ms
+10:59:31 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+10:59:46 [Verbose] Rest: POST channels/504971123306266624/messages: 235.24 ms
+10:59:53 [Verbose] Rest: POST channels/504971123306266624/messages: 228.33 ms
+11:00:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:00:15 [Verbose] Rest: GET voice/regions: 1897.43 ms
+11:00:15 [Info] Gateway: Connecting
+11:00:15 [Warning] Command: Class DiscordFFXIV.Modules.FFXIVFeed is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+11:00:15 [Verbose] Rest: GET gateway: 83.82 ms
+11:00:16 [Info] Gateway: Connected
+11:00:16 [Verbose] Gateway: Connected to Bots
+11:00:16 [Verbose] Gateway: Connected to BotTestServer
+11:00:17 [Info] Gateway: Ready
+11:00:17 [Verbose] Rest: POST channels/504971123306266624/messages: 218.03 ms
+11:00:17 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+11:57:16 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:57:18 [Verbose] Rest: GET voice/regions: 2065.93 ms
+11:57:18 [Info] Gateway: Connecting
+11:57:18 [Warning] Command: Class DiscordFFXIV.Modules.FFXIVModule is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+11:57:18 [Verbose] Rest: GET gateway: 53.99 ms
+11:57:19 [Info] Gateway: Connected
+11:57:19 [Verbose] Gateway: Connected to Bots
+11:57:19 [Verbose] Gateway: Connected to BotTestServer
+11:57:20 [Info] Gateway: Ready
+11:57:21 [Verbose] Rest: POST channels/504971123306266624/messages: 234.78 ms
+11:57:21 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+11:57:35 [Verbose] Rest: POST channels/504971123306266624/messages: 248.17 ms
+12:05:59 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:06:02 [Verbose] Rest: GET voice/regions: 2395.44 ms
+12:06:02 [Info] Gateway: Connecting
+12:06:02 [Warning] Command: Class DiscordFFXIV.Modules.FfxivModule is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+12:06:02 [Verbose] Rest: GET gateway: 47.63 ms
+12:06:03 [Info] Gateway: Connected
+12:06:03 [Verbose] Gateway: Connected to Bots
+12:06:03 [Verbose] Gateway: Connected to BotTestServer
+12:06:03 [Info] Gateway: Ready
+12:06:07 [Verbose] Rest: POST channels/504971123306266624/messages: 191.36 ms
+12:06:07 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+12:06:17 [Verbose] Rest: POST channels/504971123306266624/messages: 263.22 ms
+12:11:03 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:11:05 [Verbose] Rest: GET voice/regions: 1516.61 ms
+12:11:05 [Info] Gateway: Connecting
+12:11:05 [Warning] Command: Class DiscordFFXIV.Modules.FfxivModule is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+12:11:05 [Verbose] Rest: GET gateway: 63.33 ms
+12:11:06 [Info] Gateway: Connected
+12:11:06 [Verbose] Gateway: Connected to Bots
+12:11:06 [Verbose] Gateway: Connected to BotTestServer
+12:11:07 [Info] Gateway: Ready
+12:11:09 [Verbose] Rest: POST channels/504971123306266624/messages: 217.69 ms
+12:11:09 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+12:11:50 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:11:52 [Verbose] Rest: GET voice/regions: 1524.46 ms
+12:11:52 [Info] Gateway: Connecting
+12:11:52 [Warning] Command: Class DiscordFFXIV.Modules.FfxivModule is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+12:11:52 [Verbose] Rest: GET gateway: 51.64 ms
+12:11:53 [Info] Gateway: Connected
+12:11:54 [Verbose] Gateway: Connected to Bots
+12:11:54 [Verbose] Gateway: Connected to BotTestServer
+12:11:54 [Info] Gateway: Ready
+12:11:55 [Verbose] Rest: POST channels/504971123306266624/messages: 238.88 ms
+12:11:56 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+12:13:08 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:13:09 [Verbose] Rest: GET voice/regions: 1756.97 ms
+12:13:10 [Info] Gateway: Connecting
+12:13:10 [Warning] Command: Class DiscordFFXIV.Modules.FfxivModule is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+12:13:10 [Verbose] Rest: GET gateway: 151.21 ms
+12:13:11 [Info] Gateway: Connected
+12:13:11 [Verbose] Gateway: Connected to Bots
+12:13:11 [Verbose] Gateway: Connected to BotTestServer
+12:13:11 [Info] Gateway: Ready
+12:13:18 [Verbose] Rest: POST channels/504971123306266624/messages: 246.89 ms
+12:13:18 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+12:13:44 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:13:46 [Verbose] Rest: GET voice/regions: 2144.46 ms
+12:13:47 [Info] Gateway: Connecting
+12:13:47 [Warning] Command: Class DiscordFFXIV.Modules.FfxivModule is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+12:13:47 [Verbose] Rest: GET gateway: 100.7 ms
+12:13:48 [Info] Gateway: Connected
+12:13:48 [Verbose] Gateway: Connected to Bots
+12:13:48 [Verbose] Gateway: Connected to BotTestServer
+12:13:48 [Info] Gateway: Ready
+12:13:51 [Verbose] Rest: POST channels/504971123306266624/messages: 199.25 ms
+12:13:51 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+12:15:04 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:15:06 [Verbose] Rest: GET voice/regions: 2054.49 ms
+12:15:06 [Info] Gateway: Connecting
+12:15:06 [Warning] Command: Class DiscordFFXIV.Modules.FfxivModule is not public and cannot be loaded. To suppress this message, mark the class with DontAutoLoadAttribute.
+12:15:06 [Verbose] Rest: GET gateway: 212.46 ms
+12:15:07 [Info] Gateway: Connected
+12:15:07 [Verbose] Gateway: Connected to Bots
+12:15:07 [Verbose] Gateway: Connected to BotTestServer
+12:15:08 [Info] Gateway: Ready
+12:15:10 [Verbose] Rest: POST channels/504971123306266624/messages: 218.8 ms
+12:15:10 [Verbose] Command: Executed "help" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+12:15:17 [Verbose] Rest: POST channels/504971123306266624/messages: 195.01 ms
+12:15:17 [Verbose] Command: Executed "news" for SilverHaze#0420 in BotTestServer/beat-saber-bot
+12:15:42 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:15:44 [Verbose] Rest: GET voice/regions: 2044.38 ms
+12:15:44 [Info] Gateway: Connecting
+12:15:44 [Verbose] Rest: GET gateway: 107.83 ms
+12:15:45 [Info] Gateway: Connected
+12:15:45 [Verbose] Gateway: Connected to Bots
+12:15:45 [Verbose] Gateway: Connected to BotTestServer
+12:15:46 [Info] Gateway: Ready
+12:15:46 [Verbose] Rest: POST channels/504392851229114369/messages: 240.94 ms
+12:15:46 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:15:58 [Verbose] Rest: POST channels/504392851229114369/messages: 238.02 ms
+12:15:58 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:16:06 [Verbose] Rest: POST channels/504392851229114369/messages: 223.23 ms
+12:16:06 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:16:19 [Verbose] Rest: POST channels/504392851229114369/messages: 204.04 ms
+12:16:19 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:16:31 [Verbose] Rest: POST channels/504392851229114369/messages: 214.77 ms
+12:16:31 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:38:48 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:38:50 [Verbose] Rest: GET voice/regions: 2055.92 ms
+12:38:50 [Info] Gateway: Connecting
+12:38:50 [Verbose] Rest: GET gateway: 131.87 ms
+12:38:51 [Info] Gateway: Connected
+12:38:51 [Verbose] Gateway: Connected to Bots
+12:38:51 [Verbose] Gateway: Connected to BotTestServer
+12:38:52 [Info] Gateway: Ready
+12:39:10 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(Task`1 getTask)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 31
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:39:11 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:40:15 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:40:18 [Verbose] Rest: GET voice/regions: 2307.1 ms
+12:40:18 [Info] Gateway: Connecting
+12:40:18 [Verbose] Rest: GET gateway: 45.74 ms
+12:40:19 [Info] Gateway: Connected
+12:40:19 [Verbose] Gateway: Connected to Bots
+12:40:19 [Verbose] Gateway: Connected to BotTestServer
+12:40:20 [Info] Gateway: Ready
+12:41:40 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+12:41:40 [Info] Gateway: Disconnecting
+12:41:40 [Verbose] Gateway: Disconnected from Bots
+12:41:40 [Verbose] Gateway: Disconnected from BotTestServer
+12:41:40 [Info] Gateway: Disconnected
+12:41:41 [Info] Gateway: Connecting
+12:41:41 [Verbose] Rest: GET gateway: 130.86 ms
+12:41:41 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(Task`1 getTask)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 31
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:41:41 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:42:49 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:42:52 [Verbose] Rest: GET voice/regions: 2189.62 ms
+12:42:52 [Info] Gateway: Connecting
+12:42:52 [Verbose] Rest: GET gateway: 59.2 ms
+12:42:53 [Info] Gateway: Connected
+12:42:53 [Verbose] Gateway: Connected to Bots
+12:42:53 [Verbose] Gateway: Connected to BotTestServer
+12:42:53 [Info] Gateway: Ready
+12:45:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:45:15 [Verbose] Rest: GET voice/regions: 1624.34 ms
+12:45:15 [Info] Gateway: Connecting
+12:45:15 [Verbose] Rest: GET gateway: 60.99 ms
+12:45:17 [Info] Gateway: Connected
+12:45:17 [Verbose] Gateway: Connected to Bots
+12:45:17 [Verbose] Gateway: Connected to BotTestServer
+12:45:17 [Info] Gateway: Ready
+12:45:30 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 39
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:45:30 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:46:17 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:46:19 [Verbose] Rest: GET voice/regions: 1865.9 ms
+12:46:20 [Info] Gateway: Connecting
+12:46:20 [Verbose] Rest: GET gateway: 77.37 ms
+12:46:21 [Info] Gateway: Connected
+12:46:21 [Verbose] Gateway: Connected to Bots
+12:46:21 [Verbose] Gateway: Connected to BotTestServer
+12:46:21 [Info] Gateway: Ready
+12:51:14 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:51:16 [Verbose] Rest: GET voice/regions: 1988.97 ms
+12:51:16 [Info] Gateway: Connecting
+12:51:16 [Verbose] Rest: GET gateway: 93.35 ms
+12:51:17 [Info] Gateway: Connected
+12:51:17 [Verbose] Gateway: Connected to Bots
+12:51:17 [Verbose] Gateway: Connected to BotTestServer
+12:51:17 [Info] Gateway: Ready
+12:55:15 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:55:17 [Verbose] Rest: GET voice/regions: 2243.23 ms
+12:55:18 [Info] Gateway: Connecting
+12:55:18 [Verbose] Rest: GET gateway: 68.49 ms
+12:55:19 [Info] Gateway: Connected
+12:55:19 [Verbose] Gateway: Connected to Bots
+12:55:19 [Verbose] Gateway: Connected to BotTestServer
+12:55:19 [Info] Gateway: Ready
+12:56:30 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:56:33 [Verbose] Rest: GET voice/regions: 2449.53 ms
+12:56:33 [Info] Gateway: Connecting
+12:56:33 [Verbose] Rest: GET gateway: 59.51 ms
+12:56:34 [Info] Gateway: Connected
+12:56:34 [Verbose] Gateway: Connected to Bots
+12:56:34 [Verbose] Gateway: Connected to BotTestServer
+12:56:35 [Info] Gateway: Ready
+12:59:00 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:59:02 [Verbose] Rest: GET voice/regions: 1949.66 ms
+12:59:02 [Info] Gateway: Connecting
+12:59:02 [Verbose] Rest: GET gateway: 74.54 ms
+12:59:03 [Info] Gateway: Connected
+12:59:03 [Verbose] Gateway: Connected to Bots
+12:59:03 [Verbose] Gateway: Connected to BotTestServer
+12:59:04 [Info] Gateway: Ready
+12:59:45 [Verbose] Rest: POST channels/504392851229114369/messages: 388.78 ms
+12:59:45 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+01:07:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:07:15 [Verbose] Rest: GET voice/regions: 1907.17 ms
+01:07:15 [Info] Gateway: Connecting
+01:07:15 [Verbose] Rest: GET gateway: 49.83 ms
+01:07:16 [Info] Gateway: Connected
+01:07:16 [Verbose] Gateway: Connected to Bots
+01:07:16 [Verbose] Gateway: Connected to BotTestServer
+01:07:16 [Info] Gateway: Ready
+01:07:47 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 39
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:07:47 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+01:10:28 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:10:30 [Verbose] Rest: GET voice/regions: 1947.5 ms
+01:10:30 [Info] Gateway: Connecting
+01:10:30 [Verbose] Rest: GET gateway: 80.06 ms
+01:10:31 [Info] Gateway: Connected
+01:10:32 [Verbose] Gateway: Connected to BotTestServer
+01:10:32 [Verbose] Gateway: Connected to Bots
+01:10:32 [Info] Gateway: Ready
+01:10:51 [Verbose] Rest: POST channels/504392851229114369/messages: 270.37 ms
+01:10:51 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+01:20:00 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:20:02 [Verbose] Rest: GET voice/regions: 2053.03 ms
+01:20:02 [Info] Gateway: Connecting
+01:20:03 [Verbose] Rest: GET gateway: 159.33 ms
+01:20:04 [Info] Gateway: Connected
+01:20:04 [Verbose] Gateway: Connected to Bots
+01:20:04 [Verbose] Gateway: Connected to BotTestServer
+01:20:04 [Info] Gateway: Ready
+01:20:47 [Verbose] Rest: POST channels/504392851229114369/messages: 219.58 ms
+01:20:49 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+02:09:31 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:09:33 [Verbose] Rest: GET voice/regions: 1788.17 ms
+02:09:33 [Info] Gateway: Connecting
+02:09:33 [Verbose] Rest: GET gateway: 42.64 ms
+02:09:34 [Info] Gateway: Connected
+02:09:34 [Verbose] Gateway: Connected to Bots
+02:09:34 [Verbose] Gateway: Connected to BotTestServer
+02:09:35 [Info] Gateway: Ready
+02:12:54 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:12:56 [Verbose] Rest: GET voice/regions: 1748.08 ms
+02:12:56 [Info] Gateway: Connecting
+02:12:57 [Verbose] Rest: GET gateway: 109.3 ms
+02:12:58 [Info] Gateway: Connected
+02:12:58 [Verbose] Gateway: Connected to Bots
+02:12:58 [Verbose] Gateway: Connected to BotTestServer
+02:12:58 [Info] Gateway: Ready
+02:13:42 [Verbose] Rest: POST channels/504392851229114369/messages: 209.14 ms
+02:13:52 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+02:14:05 [Verbose] Rest: POST channels/504392851229114369/messages: 244.4 ms
+02:20:10 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:20:12 [Verbose] Rest: GET voice/regions: 1954.32 ms
+02:20:13 [Info] Gateway: Connecting
+02:20:13 [Verbose] Rest: GET gateway: 153.48 ms
+02:20:14 [Info] Gateway: Connected
+02:20:14 [Verbose] Gateway: Connected to Bots
+02:20:14 [Verbose] Gateway: Connected to BotTestServer
+02:20:15 [Info] Gateway: Ready
+02:30:14 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:30:16 [Verbose] Rest: GET voice/regions: 2323.28 ms
+02:30:17 [Info] Gateway: Connecting
+02:30:17 [Verbose] Rest: GET gateway: 69.29 ms
+02:30:18 [Info] Gateway: Connected
+02:30:18 [Verbose] Gateway: Connected to Bots
+02:30:18 [Verbose] Gateway: Connected to BotTestServer
+02:30:18 [Info] Gateway: Ready
+02:30:45 [Verbose] Rest: POST channels/504392851229114369/messages: 232.83 ms
+02:30:45 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+02:54:03 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:54:05 [Verbose] Rest: GET voice/regions: 1904.47 ms
+02:54:05 [Info] Gateway: Connecting
+02:54:05 [Verbose] Rest: GET gateway: 73.34 ms
+02:54:06 [Info] Gateway: Connected
+02:54:06 [Verbose] Gateway: Connected to Bots
+02:54:06 [Verbose] Gateway: Connected to BotTestServer
+02:54:06 [Info] Gateway: Ready
+02:54:26 [Verbose] Rest: POST channels/504392851229114369/messages: 242.84 ms
+02:54:26 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+02:59:20 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:59:22 [Verbose] Rest: GET voice/regions: 1522.86 ms
+02:59:22 [Info] Gateway: Connecting
+02:59:22 [Verbose] Rest: GET gateway: 73.24 ms
+02:59:23 [Info] Gateway: Connected
+02:59:23 [Verbose] Gateway: Connected to Bots
+02:59:23 [Verbose] Gateway: Connected to BotTestServer
+02:59:23 [Info] Gateway: Ready
+03:01:11 [Verbose] Rest: POST channels/504392851229114369/messages: 240.68 ms
+03:01:11 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+03:01:42 [Info] Discord: Discord.Net v1.0.2 (API v6)
+03:01:44 [Verbose] Rest: GET voice/regions: 2200.68 ms
+03:01:45 [Info] Gateway: Connecting
+03:01:45 [Verbose] Rest: GET gateway: 86.51 ms
+03:01:46 [Info] Gateway: Connected
+03:01:46 [Verbose] Gateway: Connected to Bots
+03:01:46 [Verbose] Gateway: Connected to BotTestServer
+03:01:46 [Info] Gateway: Ready
+03:04:40 [Verbose] Rest: POST channels/504392851229114369/messages: 324.49 ms
+03:04:40 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+03:04:51 [Verbose] Rest: POST channels/504392851229114369/messages: 246.61 ms
+03:05:10 [Verbose] Rest: POST channels/504392851229114369/messages: 261.55 ms

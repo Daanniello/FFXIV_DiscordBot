@@ -6,7 +6,7 @@ using System;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace Example
+namespace DiscordFFXIV
 {
     public class StartupService
     {

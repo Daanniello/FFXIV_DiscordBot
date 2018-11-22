@@ -3,7 +3,7 @@ using Discord.Commands;
 using Discord.WebSocket;
 using System.Threading.Tasks;
 
-namespace Example.Modules
+namespace DiscordFFXIV.Modules
 {
     [Name("Example")]
     public class ExampleModule : ModuleBase<SocketCommandContext>

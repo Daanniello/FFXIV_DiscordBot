@@ -6,3 +6,6 @@ C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\o
 C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\obj\Debug\netcoreapp2.1\DiscordFFXIV.csproj.CoreCompileInputs.cache
 C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\obj\Debug\netcoreapp2.1\DiscordFFXIV.AssemblyInfoInputs.cache
 C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\obj\Debug\netcoreapp2.1\DiscordFFXIV.AssemblyInfo.cs
+C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\bin\Debug\netcoreapp2.1\DiscordFFXIV.pdb
+C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\obj\Debug\netcoreapp2.1\DiscordFFXIV.dll
+C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\obj\Debug\netcoreapp2.1\DiscordFFXIV.pdb

@@ -16,9 +16,10 @@ namespace DiscordFFXIV
         {
             var builder = new ConfigurationBuilder()        // Create a new instance of the config builder
                 .SetBasePath(AppContext.BaseDirectory)      // Specify the default location for the config file
-                .AddJsonFile("_configuration.json");        // Add this (json encoded) file to the configuration
+                .AddJsonFile(@"_configuration.json");        // Add this (json encoded) file to the configuration
             Configuration = builder.Build();                // Build the configuration
         }
+
 
         public static async Task RunAsync(string[] args)
         {
@@ -33,7 +34,7 @@ namespace DiscordFFXIV
 
             var provider = services.BuildServiceProvider();     // Build the service provider
             provider.GetRequiredService<LoggingService>();      // Start the logging service
-		provider.GetRequiredService<CommandHandler>(); 		// Start the command handler service
+		    provider.GetRequiredService<CommandHandler>(); 		// Start the command handler service
 
             await provider.GetRequiredService<StartupService>().StartAsync();       // Start the startup service
             await Task.Delay(-1);                               // Keep the program alive
@@ -54,6 +55,7 @@ namespace DiscordFFXIV
             }))
             .AddSingleton<StartupService>()         // Add startupservice to the collection
             .AddSingleton<LoggingService>()         // Add loggingservice to the collection
+            .AddSingleton<CommandHandler>()         // Add loggingservice to the collection
             .AddSingleton<Random>()                 // Add random to the collection
             .AddSingleton(Configuration);           // Add the configuration to the collection
         }

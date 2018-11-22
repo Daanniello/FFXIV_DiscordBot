@@ -5,4 +5,19 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Modules\ExampleModule.cs" />
+    <Compile Remove="Modules\FFXIVModule.cs" />
+    <Compile Remove="Modules\MathModule.cs" />
+    <Compile Remove="Modules\ModeratorModule.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="1.0.2" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.8.10" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1" />
+  </ItemGroup>
+
 </Project>
