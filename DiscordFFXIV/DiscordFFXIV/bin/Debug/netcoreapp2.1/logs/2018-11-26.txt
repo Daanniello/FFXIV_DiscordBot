@@ -1,0 +1,630 @@
+10:48:45 [Info] Discord: Discord.Net v1.0.2 (API v6)
+10:48:47 [Verbose] Rest: GET voice/regions: 1893.52 ms
+10:48:47 [Info] Gateway: Connecting
+10:48:47 [Verbose] Rest: GET gateway: 97.16 ms
+10:48:48 [Info] Gateway: Connected
+10:48:48 [Verbose] Gateway: Connected to BotTestServer
+10:48:48 [Verbose] Gateway: Connected to Bots
+10:48:49 [Info] Gateway: Ready
+10:48:52 [Verbose] Rest: POST channels/504392851229114369/messages: 236.51 ms
+10:48:52 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+10:49:07 [Verbose] Rest: POST channels/504392851229114369/messages: 244.29 ms
+10:49:07 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+10:50:10 [Info] Discord: Discord.Net v1.0.2 (API v6)
+10:50:12 [Verbose] Rest: GET voice/regions: 1914.18 ms
+10:50:12 [Info] Gateway: Connecting
+10:50:12 [Verbose] Rest: GET gateway: 47.54 ms
+10:50:13 [Info] Gateway: Connected
+10:50:13 [Verbose] Gateway: Connected to Bots
+10:50:13 [Verbose] Gateway: Connected to BotTestServer
+10:50:14 [Info] Gateway: Ready
+10:50:30 [Verbose] Rest: POST channels/504392851229114369/messages: 276.93 ms
+10:50:30 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+10:51:03 [Verbose] Rest: POST channels/504392851229114369/messages: 236.81 ms
+10:51:03 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+11:24:24 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:24:26 [Verbose] Rest: GET voice/regions: 2201.51 ms
+11:24:27 [Info] Gateway: Connecting
+11:24:27 [Verbose] Rest: GET gateway: 88.95 ms
+11:24:28 [Info] Gateway: Connected
+11:24:28 [Verbose] Gateway: Connected to Bots
+11:24:28 [Verbose] Gateway: Connected to BotTestServer
+11:24:28 [Info] Gateway: Ready
+11:24:55 [Verbose] Rest: POST channels/504392851229114369/messages: 242.46 ms
+11:24:56 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+11:27:11 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:27:14 [Verbose] Rest: GET voice/regions: 2401.12 ms
+11:27:14 [Info] Gateway: Connecting
+11:27:14 [Verbose] Rest: GET gateway: 116.62 ms
+11:27:15 [Info] Gateway: Connected
+11:27:15 [Verbose] Gateway: Connected to BotTestServer
+11:27:15 [Verbose] Gateway: Connected to Bots
+11:27:16 [Info] Gateway: Ready
+11:27:48 [Verbose] Rest: POST channels/504392851229114369/messages: 248.99 ms
+11:27:48 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+11:29:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:29:15 [Verbose] Rest: GET voice/regions: 1662.28 ms
+11:29:15 [Info] Gateway: Connecting
+11:29:15 [Verbose] Rest: GET gateway: 60.24 ms
+11:29:16 [Info] Gateway: Connected
+11:29:17 [Verbose] Gateway: Connected to Bots
+11:29:17 [Verbose] Gateway: Connected to BotTestServer
+11:29:17 [Info] Gateway: Ready
+11:30:03 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:30:05 [Verbose] Rest: GET voice/regions: 1746.31 ms
+11:30:05 [Info] Gateway: Connecting
+11:30:05 [Verbose] Rest: GET gateway: 77.12 ms
+11:30:06 [Info] Gateway: Connected
+11:30:06 [Verbose] Gateway: Connected to Bots
+11:30:06 [Verbose] Gateway: Connected to BotTestServer
+11:30:12 [Info] Gateway: Ready
+11:30:22 [Verbose] Rest: POST channels/504392851229114369/messages: 291.06 ms
+11:30:22 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+11:38:39 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:38:41 [Verbose] Rest: GET voice/regions: 1868.57 ms
+11:38:41 [Info] Gateway: Connecting
+11:38:42 [Verbose] Rest: GET gateway: 227.78 ms
+11:38:43 [Info] Gateway: Connected
+11:38:43 [Verbose] Gateway: Connected to Bots
+11:38:43 [Verbose] Gateway: Connected to BotTestServer
+11:38:43 [Info] Gateway: Ready
+11:41:09 [Verbose] Rest: POST channels/504392851229114369/messages: 3945.33 ms
+11:41:10 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+11:41:53 [Verbose] Rest: POST channels/504392851229114369/messages: 265.49 ms
+11:46:22 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:46:24 [Verbose] Rest: GET voice/regions: 1901.65 ms
+11:46:24 [Info] Gateway: Connecting
+11:46:24 [Verbose] Rest: GET gateway: 73.79 ms
+11:46:25 [Info] Gateway: Connected
+11:46:25 [Verbose] Gateway: Connected to Bots
+11:46:25 [Verbose] Gateway: Connected to BotTestServer
+11:46:25 [Info] Gateway: Ready
+11:46:53 [Verbose] Rest: POST channels/504392851229114369/messages: 247.82 ms
+11:46:53 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+11:49:25 [Verbose] Rest: POST channels/504392851229114369/messages: 334.01 ms
+11:55:28 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:55:30 [Verbose] Rest: GET voice/regions: 1865.11 ms
+11:55:31 [Info] Gateway: Connecting
+11:55:31 [Verbose] Rest: GET gateway: 61.4 ms
+11:55:32 [Info] Gateway: Connected
+11:55:32 [Verbose] Gateway: Connected to Bots
+11:55:32 [Verbose] Gateway: Connected to BotTestServer
+11:55:32 [Info] Gateway: Ready
+11:56:19 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:56:21 [Verbose] Rest: GET voice/regions: 1919.5 ms
+11:56:21 [Info] Gateway: Connecting
+11:56:21 [Verbose] Rest: GET gateway: 123.25 ms
+11:56:22 [Info] Gateway: Connected
+11:56:22 [Verbose] Gateway: Connected to Bots
+11:56:22 [Verbose] Gateway: Connected to BotTestServer
+11:56:23 [Info] Gateway: Ready
+11:56:51 [Verbose] Rest: POST channels/504392851229114369/messages: 258.26 ms
+11:56:51 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+11:56:56 [Verbose] Rest: POST channels/504392851229114369/messages: 217.1 ms
+11:59:31 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:59:33 [Verbose] Rest: GET voice/regions: 2237.75 ms
+11:59:34 [Info] Gateway: Connecting
+11:59:34 [Verbose] Rest: GET gateway: 62.28 ms
+11:59:35 [Info] Gateway: Connected
+11:59:35 [Verbose] Gateway: Connected to Bots
+11:59:35 [Verbose] Gateway: Connected to BotTestServer
+11:59:35 [Info] Gateway: Ready
+12:01:52 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:01:54 [Verbose] Rest: GET voice/regions: 1801.68 ms
+12:01:54 [Info] Gateway: Connecting
+12:01:55 [Verbose] Rest: GET gateway: 112.41 ms
+12:01:55 [Info] Gateway: Connected
+12:01:56 [Verbose] Gateway: Connected to Bots
+12:01:56 [Verbose] Gateway: Connected to BotTestServer
+12:01:56 [Info] Gateway: Ready
+12:02:40 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:02:42 [Verbose] Rest: GET voice/regions: 1655.23 ms
+12:02:42 [Info] Gateway: Connecting
+12:02:42 [Verbose] Rest: GET gateway: 97.16 ms
+12:02:43 [Info] Gateway: Connected
+12:02:43 [Verbose] Gateway: Connected to Bots
+12:02:43 [Verbose] Gateway: Connected to BotTestServer
+12:02:43 [Info] Gateway: Ready
+12:03:14 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 71
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:03:14 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:03:57 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:03:59 [Verbose] Rest: GET voice/regions: 1993.45 ms
+12:03:59 [Info] Gateway: Connecting
+12:03:59 [Verbose] Rest: GET gateway: 67.75 ms
+12:04:00 [Info] Gateway: Connected
+12:04:00 [Verbose] Gateway: Connected to Bots
+12:04:00 [Verbose] Gateway: Connected to BotTestServer
+12:04:00 [Info] Gateway: Ready
+12:06:00 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+12:06:00 [Info] Gateway: Disconnecting
+12:06:00 [Verbose] Gateway: Disconnected from Bots
+12:06:00 [Verbose] Gateway: Disconnected from BotTestServer
+12:06:00 [Info] Gateway: Disconnected
+12:06:01 [Info] Gateway: Connecting
+12:06:01 [Verbose] Rest: GET gateway: 97.79 ms
+12:06:02 [Warning] Gateway: Failed to resume previous session
+12:06:02 [Info] Gateway: Connected
+12:06:02 [Verbose] Gateway: Connected to Bots
+12:06:02 [Verbose] Gateway: Connected to BotTestServer
+12:06:02 [Info] Gateway: Ready
+12:06:24 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 71
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:06:24 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:07:23 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:07:25 [Verbose] Rest: GET voice/regions: 1817.56 ms
+12:07:25 [Info] Gateway: Connecting
+12:07:25 [Verbose] Rest: GET gateway: 185.44 ms
+12:07:26 [Info] Gateway: Connected
+12:07:26 [Verbose] Gateway: Connected to Bots
+12:07:26 [Verbose] Gateway: Connected to BotTestServer
+12:07:27 [Info] Gateway: Ready
+12:08:55 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:08:57 [Verbose] Rest: GET voice/regions: 2029.84 ms
+12:08:58 [Info] Gateway: Connecting
+12:08:58 [Verbose] Rest: GET gateway: 79.72 ms
+12:08:59 [Info] Gateway: Connected
+12:08:59 [Verbose] Gateway: Connected to Bots
+12:08:59 [Verbose] Gateway: Connected to BotTestServer
+12:08:59 [Info] Gateway: Ready
+12:10:17 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:10:19 [Verbose] Rest: GET voice/regions: 1933.05 ms
+12:10:20 [Info] Gateway: Connecting
+12:10:20 [Verbose] Rest: GET gateway: 105.17 ms
+12:10:21 [Info] Gateway: Connected
+12:10:21 [Verbose] Gateway: Connected to Bots
+12:10:21 [Verbose] Gateway: Connected to BotTestServer
+12:10:21 [Info] Gateway: Ready
+12:10:33 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 71
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:10:33 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:12:02 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:12:04 [Verbose] Rest: GET voice/regions: 1964.56 ms
+12:12:05 [Info] Gateway: Connecting
+12:12:05 [Verbose] Rest: GET gateway: 88.54 ms
+12:12:06 [Info] Gateway: Connected
+12:12:06 [Verbose] Gateway: Connected to Bots
+12:12:06 [Verbose] Gateway: Connected to BotTestServer
+12:12:06 [Info] Gateway: Ready
+12:12:16 [Error] Command: Discord.Commands.CommandException: Error occurred executing "news" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 71
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:12:16 [Verbose] Command: Executed "news" for SilverHaze#0420 in Bots/bot-spam
+12:13:55 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:13:58 [Verbose] Rest: GET voice/regions: 2075.29 ms
+12:13:58 [Info] Gateway: Connecting
+12:13:58 [Verbose] Rest: GET gateway: 99.54 ms
+12:13:59 [Info] Gateway: Connected
+12:13:59 [Verbose] Gateway: Connected to Bots
+12:13:59 [Verbose] Gateway: Connected to BotTestServer
+12:14:00 [Info] Gateway: Ready
+12:14:05 [Verbose] Rest: POST channels/504392851229114369/messages: 211.77 ms
+12:14:05 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:14:15 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start event" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 71
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:14:15 [Verbose] Command: Executed "start event" for SilverHaze#0420 in Bots/bot-spam
+12:16:48 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:16:50 [Verbose] Rest: GET voice/regions: 1692.37 ms
+12:16:51 [Info] Gateway: Connecting
+12:16:51 [Verbose] Rest: GET gateway: 74.86 ms
+12:16:52 [Info] Gateway: Connected
+12:16:52 [Verbose] Gateway: Connected to Bots
+12:16:52 [Verbose] Gateway: Connected to BotTestServer
+12:16:52 [Info] Gateway: Ready
+12:16:58 [Verbose] Rest: POST channels/504392851229114369/messages: 223.5 ms
+12:16:58 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:17:10 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start event" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 77
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:17:10 [Verbose] Command: Executed "start event" for SilverHaze#0420 in Bots/bot-spam
+12:18:20 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:18:22 [Verbose] Rest: GET voice/regions: 1923.37 ms
+12:18:22 [Info] Gateway: Connecting
+12:18:22 [Verbose] Rest: GET gateway: 85.57 ms
+12:18:23 [Info] Gateway: Connected
+12:18:23 [Verbose] Gateway: Connected to Bots
+12:18:23 [Verbose] Gateway: Connected to BotTestServer
+12:18:24 [Info] Gateway: Ready
+12:18:26 [Verbose] Rest: POST channels/504392851229114369/messages: 259.31 ms
+12:18:26 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:18:36 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start Feed" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 77
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:18:36 [Verbose] Command: Executed "start Feed" for SilverHaze#0420 in Bots/bot-spam
+12:19:15 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start Feed" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 77
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:19:15 [Verbose] Command: Executed "start Feed" for SilverHaze#0420 in Bots/bot-spam
+12:20:09 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:20:11 [Verbose] Rest: GET voice/regions: 1858.58 ms
+12:20:12 [Info] Gateway: Connecting
+12:20:12 [Verbose] Rest: GET gateway: 84.26 ms
+12:20:13 [Info] Gateway: Connected
+12:20:13 [Verbose] Gateway: Connected to Bots
+12:20:13 [Verbose] Gateway: Connected to BotTestServer
+12:20:13 [Info] Gateway: Ready
+12:20:24 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start Feed" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 71
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:20:24 [Verbose] Command: Executed "start Feed" for SilverHaze#0420 in Bots/bot-spam
+12:23:42 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:23:44 [Verbose] Rest: GET voice/regions: 1473.48 ms
+12:23:44 [Info] Gateway: Connecting
+12:23:44 [Verbose] Rest: GET gateway: 197.38 ms
+12:23:47 [Info] Gateway: Connected
+12:23:47 [Verbose] Gateway: Connected to Bots
+12:23:47 [Verbose] Gateway: Connected to BotTestServer
+12:23:47 [Info] Gateway: Ready
+12:23:59 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start Feed" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 71
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:23:59 [Verbose] Command: Executed "start Feed" for SilverHaze#0420 in Bots/bot-spam
+12:28:50 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:28:53 [Verbose] Rest: GET voice/regions: 2212.82 ms
+12:28:53 [Info] Gateway: Connecting
+12:28:53 [Verbose] Rest: GET gateway: 145.35 ms
+12:28:54 [Info] Gateway: Connected
+12:28:54 [Verbose] Gateway: Connected to BotTestServer
+12:28:54 [Verbose] Gateway: Connected to Bots
+12:28:54 [Info] Gateway: Ready
+12:29:14 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start Feed" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 72
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:29:14 [Verbose] Command: Executed "start Feed" for SilverHaze#0420 in Bots/bot-spam
+12:29:37 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:29:39 [Verbose] Rest: GET voice/regions: 1649.59 ms
+12:29:39 [Info] Gateway: Connecting
+12:29:39 [Verbose] Rest: GET gateway: 103.71 ms
+12:29:40 [Info] Gateway: Connected
+12:29:40 [Verbose] Gateway: Connected to Bots
+12:29:40 [Verbose] Gateway: Connected to BotTestServer
+12:29:40 [Info] Gateway: Ready
+12:31:18 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:31:20 [Verbose] Rest: GET voice/regions: 1995.8 ms
+12:31:20 [Info] Gateway: Connecting
+12:31:21 [Verbose] Rest: GET gateway: 87.43 ms
+12:31:21 [Info] Gateway: Connected
+12:31:21 [Verbose] Gateway: Connected to Bots
+12:31:21 [Verbose] Gateway: Connected to BotTestServer
+12:31:22 [Info] Gateway: Ready
+12:31:40 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start Feed" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 66
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:35:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:35:15 [Verbose] Rest: GET voice/regions: 1967.64 ms
+12:35:16 [Info] Gateway: Connecting
+12:35:16 [Verbose] Rest: GET gateway: 87.83 ms
+12:35:17 [Info] Gateway: Connected
+12:35:17 [Verbose] Gateway: Connected to Bots
+12:35:17 [Verbose] Gateway: Connected to BotTestServer
+12:35:17 [Info] Gateway: Ready
+12:35:23 [Verbose] Rest: POST channels/504392851229114369/messages: 237.17 ms
+12:35:23 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:35:29 [Verbose] Rest: POST channels/504392851229114369/messages: 265.62 ms
+12:35:29 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+12:35:49 [Verbose] Rest: POST channels/504392851229114369/messages: 280.34 ms
+12:35:49 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+12:35:49 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start Feed" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 75
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:35:49 [Verbose] Command: Executed "start Feed" for SilverHaze#0420 in Bots/bot-spam
+12:46:06 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:46:08 [Verbose] Rest: GET voice/regions: 1781.59 ms
+12:46:09 [Info] Gateway: Connecting
+12:46:09 [Verbose] Rest: GET gateway: 123.23 ms
+12:46:10 [Info] Gateway: Connected
+12:46:10 [Verbose] Gateway: Connected to Bots
+12:46:10 [Verbose] Gateway: Connected to BotTestServer
+12:46:10 [Info] Gateway: Ready
+12:46:26 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:46:27 [Verbose] Rest: GET voice/regions: 1389.99 ms
+12:46:27 [Info] Gateway: Connecting
+12:46:27 [Verbose] Rest: GET gateway: 56.32 ms
+12:46:28 [Info] Gateway: Connected
+12:46:28 [Verbose] Gateway: Connected to Bots
+12:46:28 [Verbose] Gateway: Connected to BotTestServer
+12:46:29 [Info] Gateway: Ready
+12:46:34 [Verbose] Rest: POST channels/504392851229114369/messages: 248.36 ms
+12:46:34 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:46:38 [Verbose] Rest: POST channels/504392851229114369/messages: 196.76 ms
+12:46:38 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+12:49:57 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:50:00 [Verbose] Rest: GET voice/regions: 2788.97 ms
+12:50:01 [Info] Gateway: Connecting
+12:50:01 [Verbose] Rest: GET gateway: 94.61 ms
+12:50:02 [Info] Gateway: Connected
+12:50:02 [Verbose] Gateway: Connected to BotTestServer
+12:50:02 [Verbose] Gateway: Connected to Bots
+12:50:02 [Info] Gateway: Ready
+12:50:25 [Verbose] Rest: POST channels/504392851229114369/messages: 240.87 ms
+12:50:25 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+12:50:32 [Verbose] Rest: POST channels/504392851229114369/messages: 332.58 ms
+12:50:32 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+12:53:53 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:53:55 [Verbose] Rest: GET voice/regions: 2114.04 ms
+12:53:56 [Info] Gateway: Connecting
+12:53:56 [Verbose] Rest: GET gateway: 146.85 ms
+12:53:57 [Info] Gateway: Connected
+12:53:57 [Verbose] Gateway: Connected to Bots
+12:53:57 [Verbose] Gateway: Connected to BotTestServer
+12:53:58 [Info] Gateway: Ready
+12:54:13 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start special" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.SpecialNews() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 122
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+12:54:13 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+12:59:09 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+12:59:09 [Info] Gateway: Disconnecting
+12:59:09 [Verbose] Gateway: Disconnected from Bots
+12:59:09 [Verbose] Gateway: Disconnected from BotTestServer
+12:59:09 [Info] Gateway: Disconnected
+12:59:10 [Info] Gateway: Connecting
+12:59:10 [Verbose] Rest: GET gateway: 114.22 ms
+12:59:10 [Warning] Gateway: Failed to resume previous session
+12:59:10 [Info] Gateway: Connected
+12:59:10 [Verbose] Gateway: Connected to Bots
+12:59:10 [Verbose] Gateway: Connected to BotTestServer
+12:59:12 [Info] Gateway: Ready
+01:00:07 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start news" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.News() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 77
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:00:07 [Verbose] Command: Executed "start news" for SilverHaze#0420 in Bots/bot-spam
+01:01:18 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:01:20 [Verbose] Rest: GET voice/regions: 2362.38 ms
+01:01:20 [Info] Gateway: Connecting
+01:01:20 [Verbose] Rest: GET gateway: 98.9 ms
+01:01:21 [Info] Gateway: Connected
+01:01:21 [Verbose] Gateway: Connected to Bots
+01:01:21 [Verbose] Gateway: Connected to BotTestServer
+01:01:22 [Info] Gateway: Ready
+01:01:23 [Verbose] Rest: POST channels/504392851229114369/messages: 292.49 ms
+01:01:23 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+01:01:29 [Verbose] Rest: POST channels/504392851229114369/messages: 255.76 ms
+01:01:29 [Verbose] Rest: POST channels/504392851229114369/messages: 310.04 ms
+01:01:29 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+01:03:36 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:03:38 [Verbose] Rest: GET voice/regions: 1975.48 ms
+01:03:39 [Info] Gateway: Connecting
+01:03:39 [Verbose] Rest: GET gateway: 133.91 ms
+01:03:40 [Info] Gateway: Connected
+01:03:40 [Verbose] Gateway: Connected to Bots
+01:03:40 [Verbose] Gateway: Connected to BotTestServer
+01:03:40 [Info] Gateway: Ready
+01:03:43 [Verbose] Rest: POST channels/504392851229114369/messages: 214.52 ms
+01:03:43 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+01:03:46 [Verbose] Rest: POST channels/504392851229114369/messages: 214 ms
+01:03:46 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+01:04:06 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start special" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.SpecialNews() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 125
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:04:06 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+01:04:56 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:04:59 [Verbose] Rest: GET voice/regions: 2469.19 ms
+01:04:59 [Info] Gateway: Connecting
+01:04:59 [Verbose] Rest: GET gateway: 89.04 ms
+01:05:00 [Info] Gateway: Connected
+01:05:00 [Verbose] Gateway: Connected to Bots
+01:05:00 [Verbose] Gateway: Connected to BotTestServer
+01:05:01 [Info] Gateway: Ready
+01:08:18 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start special" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at DiscordFFXIV.Modules.FeedModule.SpecialNews() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 125
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:08:18 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+01:09:22 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:10:18 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:10:20 [Verbose] Rest: GET voice/regions: 1798.66 ms
+01:10:20 [Info] Gateway: Connecting
+01:10:20 [Verbose] Rest: GET gateway: 66.45 ms
+01:10:21 [Info] Gateway: Connected
+01:10:21 [Verbose] Gateway: Connected to Bots
+01:10:21 [Verbose] Gateway: Connected to BotTestServer
+01:10:21 [Info] Gateway: Ready
+01:11:07 [Verbose] Rest: POST channels/504392851229114369/messages: 326.28 ms
+01:11:23 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+01:12:17 [Verbose] Rest: POST channels/504392851229114369/messages: 240.11 ms
+01:12:17 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+01:12:29 [Verbose] Rest: POST channels/504392851229114369/messages: 245.67 ms
+01:12:29 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+01:17:08 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:17:10 [Verbose] Rest: GET voice/regions: 1906.3 ms
+01:17:11 [Info] Gateway: Connecting
+01:17:11 [Verbose] Rest: GET gateway: 135.06 ms
+01:17:12 [Info] Gateway: Connected
+01:17:12 [Verbose] Gateway: Connected to Bots
+01:17:12 [Verbose] Gateway: Connected to BotTestServer
+01:17:12 [Info] Gateway: Ready
+01:17:18 [Verbose] Rest: POST channels/504392851229114369/messages: 769.16 ms
+01:17:18 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+01:17:25 [Verbose] Rest: POST channels/504392851229114369/messages: 1352.18 ms
+01:17:25 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+01:17:42 [Verbose] Rest: POST channels/504392851229114369/messages: 221.91 ms
+01:17:42 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+01:17:59 [Verbose] Rest: POST channels/504392851229114369/messages: 198.64 ms
+01:17:59 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+01:18:52 [Verbose] Rest: POST channels/504392851229114369/messages: 236.45 ms
+01:18:52 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+01:19:07 [Verbose] Rest: POST channels/504392851229114369/messages: 264.66 ms
+01:19:07 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+01:50:55 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:50:57 [Verbose] Rest: GET voice/regions: 2550.81 ms
+01:50:58 [Info] Gateway: Connecting
+01:50:58 [Verbose] Rest: GET gateway: 118.83 ms
+01:50:59 [Info] Gateway: Connected
+01:50:59 [Verbose] Gateway: Connected to Bots
+01:50:59 [Verbose] Gateway: Connected to BotTestServer
+01:50:59 [Info] Gateway: Ready
+01:51:24 [Verbose] Rest: POST channels/504392851229114369/messages: 228.98 ms
+01:51:24 [Verbose] Command: Executed "help" for SilverHaze#0420 in Bots/bot-spam
+01:51:36 [Verbose] Rest: POST channels/504392851229114369/messages: 190.73 ms
+01:51:36 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+01:52:08 [Error] Command: Discord.Commands.CommandException: Error occurred executing "start special" for SilverHaze#0420 in Bots/bot-spam. ---> System.ArgumentException: An item with the same key has already been added. Key: special
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at DiscordFFXIV.Modules.FeedModule.SpecialNews() in C:\Users\Daan Smit\Documents\GitHub\FFXIV_DiscordBot\DiscordFFXIV\DiscordFFXIV\Modules\FeedModule.cs:line 124
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteAsyncInternal(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+01:52:08 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+02:10:47 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:10:49 [Verbose] Rest: GET voice/regions: 2316.52 ms
+02:10:50 [Info] Gateway: Connecting
+02:10:50 [Verbose] Rest: GET gateway: 51.36 ms
+02:10:51 [Info] Gateway: Connected
+02:10:51 [Verbose] Gateway: Connected to Bots
+02:10:51 [Verbose] Gateway: Connected to BotTestServer
+02:10:52 [Info] Gateway: Ready
+02:12:01 [Verbose] Rest: POST channels/504392851229114369/messages: 253.38 ms
+02:12:11 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+02:14:48 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:14:50 [Verbose] Rest: GET voice/regions: 1925.6 ms
+02:14:50 [Info] Gateway: Connecting
+02:14:51 [Verbose] Rest: GET gateway: 105.21 ms
+02:14:51 [Info] Gateway: Connected
+02:14:52 [Verbose] Gateway: Connected to Bots
+02:14:52 [Verbose] Gateway: Connected to BotTestServer
+02:14:52 [Info] Gateway: Ready
+02:15:12 [Verbose] Rest: POST channels/504392851229114369/messages: 543.25 ms
+02:15:12 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+02:15:31 [Verbose] Rest: POST channels/504392851229114369/messages: 224.69 ms
+02:15:31 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+02:26:39 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:26:42 [Verbose] Rest: GET voice/regions: 2622.07 ms
+02:26:42 [Info] Gateway: Connecting
+02:26:42 [Verbose] Rest: GET gateway: 173.82 ms
+02:26:43 [Info] Gateway: Connected
+02:26:43 [Verbose] Gateway: Connected to Bots
+02:26:43 [Verbose] Gateway: Connected to BotTestServer
+02:26:44 [Info] Gateway: Ready
+02:28:19 [Verbose] Rest: POST channels/504392851229114369/messages: 220.91 ms
+02:28:19 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+02:28:30 [Verbose] Rest: POST channels/504392851229114369/messages: 249.45 ms
+02:28:30 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+02:28:36 [Verbose] Rest: POST channels/504392851229114369/messages: 245.43 ms
+02:28:36 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+02:33:21 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:33:23 [Verbose] Rest: GET voice/regions: 2135.61 ms
+02:33:23 [Info] Gateway: Connecting
+02:33:24 [Verbose] Rest: GET gateway: 104.14 ms
+02:33:24 [Info] Gateway: Connected
+02:33:25 [Verbose] Gateway: Connected to Bots
+02:33:25 [Verbose] Gateway: Connected to BotTestServer
+02:33:25 [Info] Gateway: Ready
+02:34:08 [Verbose] Rest: POST channels/504392851229114369/messages: 285.09 ms
+02:34:08 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+02:34:12 [Verbose] Rest: POST channels/504392851229114369/messages: 228.66 ms
+02:34:12 [Verbose] Command: Executed "status" for SilverHaze#0420 in Bots/bot-spam
+02:37:50 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:37:52 [Verbose] Rest: GET voice/regions: 1971.63 ms
+02:37:53 [Info] Gateway: Connecting
+02:37:53 [Verbose] Rest: GET gateway: 61.16 ms
+02:37:54 [Info] Gateway: Connected
+02:37:54 [Verbose] Gateway: Connected to Bots
+02:37:54 [Verbose] Gateway: Connected to BotTestServer
+02:37:54 [Info] Gateway: Ready
+02:39:45 [Verbose] Rest: POST channels/504392851229114369/messages: 257.84 ms
+02:39:45 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
+02:42:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:42:16 [Verbose] Rest: GET voice/regions: 2525.86 ms
+02:42:16 [Info] Gateway: Connecting
+02:42:16 [Verbose] Rest: GET gateway: 80.12 ms
+02:42:17 [Info] Gateway: Connected
+02:42:18 [Verbose] Gateway: Connected to Bots
+02:42:18 [Verbose] Gateway: Connected to BotTestServer
+02:42:18 [Info] Gateway: Ready
+02:42:46 [Verbose] Rest: POST channels/504392851229114369/messages: 220.14 ms
+02:42:46 [Verbose] Command: Executed "start special" for SilverHaze#0420 in Bots/bot-spam
